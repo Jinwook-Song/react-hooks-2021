@@ -1,6 +1,8 @@
-# nooks
+# React Hooks 2021
 
 Collection of sexy React Hooks ready to install with NPM
+
+Reference: "https://github.com/nomadcoders/nooks"
 
 - [x] useInput
 - [x] useTabs
