@@ -1,1 +1,1 @@
-export { useAxios as default } from "./useAxios";
+export { useTitle as default } from "./useTitle";
