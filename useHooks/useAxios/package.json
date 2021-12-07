@@ -1,0 +1,25 @@
+{
+  "name": "@jinwook/use-axios",
+  "version": "1.0.0",
+  "description": "React hook to fectch data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinwook-Song/react-hooks-2021.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "fetch"
+  ],
+  "author": "jinwook-song <wlsdnr129@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jinwook-Song/react-hooks-2021/issues"
+  },
+  "homepage": "https://github.com/Jinwook-Song/react-hooks-2021#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
